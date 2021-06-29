@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="first_air_date_text">Since %s</string>
+    <string name="rating">%s/5</string>
+    <string name="viewers_rating">Viewers Rating:</string>
+    <string name="overview">Overview:</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="no_results">No results 😓</string>
+    <string name="error_string">Something went wrong</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="back_button">Back Button</string>
+    <string name="star_icon">Star Icon</string>
+</resources>
