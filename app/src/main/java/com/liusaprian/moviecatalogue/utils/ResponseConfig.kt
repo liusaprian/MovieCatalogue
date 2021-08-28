@@ -3,7 +3,7 @@ package com.liusaprian.moviecatalogue.utils
 class ResponseConfig {
 
     companion object {
-        const val API_KEY ="58842f3172a861f6988140416c983f16"
+        const val API_KEY ="xxx"
         const val BASE_URL = "https://api.themoviedb.org/3/"
         const val LANGUAGE = "en-US"
         const val PAGE = 1
